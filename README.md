@@ -18,7 +18,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="  https://github-readme-stats.vercel.app/api?username=LucasEzequielRamos&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="  https://github-readme-stats.vercel.app/api?username=LucasEzequielRamos&theme=dark&show_icons=true" />
 
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasEzequielRamos&theme=dark&hide_border=false" /> 
@@ -58,6 +58,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lucas-ramos-5b4aa1246/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img align="center" src="https://github.com/LucasEzequielRamos/LucasEzequielRamos/assets/114032339/c6e9a2d8-32ee-4077-8bbc-6ef114aacc1d" alt="mail" height="50" width="50" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img align="center" src="https://github.com/LucasEzequielRamos/LucasEzequielRamos/assets/114032339/0e6c8e19-b495-4850-ba89-7c167789e943" alt="mail" height="50" width="50" /></a>
   
 </p>
